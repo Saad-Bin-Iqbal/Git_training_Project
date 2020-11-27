@@ -1,0 +1,4 @@
+creating txt file > DemoFile.txt
+cls
+clear
+
